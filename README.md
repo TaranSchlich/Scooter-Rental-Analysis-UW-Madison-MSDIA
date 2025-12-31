@@ -1,5 +1,6 @@
 # Scooter Rental Analysis
 **By: Taran Schlichtmann**
+
 **Date: 10/23/2025**
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/18dmzh-YLIPU1qkfAKmw7ZZfIv-sRhUdR)
